@@ -88,6 +88,4 @@ if __name__ == '__main__':
         score = float(input())
         # records = {**records, **{name: score}}          # Bem top
         records[name] = score
-        
-        print(name, score)
-        print(records)
+

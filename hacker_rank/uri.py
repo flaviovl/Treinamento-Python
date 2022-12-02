@@ -18,7 +18,8 @@ print(f"X = {X}")
 pi = 3.14159
 a = float(input())
 A = pi * a ** 2
-print('A={:.4f}'.format(A))
+print('A = {:.4f}'.format(A))
+print(f"A = {A:.4f}")
 
 # URI - 1003
 # -----------------------------------------------------
